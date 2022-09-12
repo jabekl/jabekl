@@ -1,6 +1,6 @@
 # Hi 👋!
 
-I'm Jabekl, a young developer. I love Web Dev and selfhosting.
+I'm Jabekl. I love Web Dev and selfhosting.
 
 # Skills 
 
