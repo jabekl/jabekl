@@ -1,14 +1,11 @@
-# Hi 👋!
-
-I'm Jabekl. I love Web Dev and selfhosting.
-
 # Skills 
 
-- Html, Css and Javascript 💻
+- Html, Css and Javascript
 - Node js (express and mongoose) 
 - Mongo DB, Basic SQL
-- Basic Python
+- Python
 - Debian bases Linux distros and Proxmox
+- A bit of Network Security
 
 #  📊 My Stats
 [![Jabekl's Github Stats](https://github-readme-stats.vercel.app/api?username=jabekl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/jabekl)
