@@ -1,9 +1,9 @@
 # Skills 
 
+- Python
 - Html, Css and Javascript
 - Node js (express and mongoose) 
 - Mongo DB, Basic SQL
-- Python
 - Debian bases Linux distros and Proxmox
 - A bit of Network Security
 
